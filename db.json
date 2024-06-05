@@ -2,7 +2,7 @@
     "books": [
     {
        "id":0,
-       "title":"Angular com Typescript",
+       "title":"Angular com Typescript-2",
        "author":"Yakov Fain",
        "alreadyRead":true,
        "imageUrl":"angular.jpg",
